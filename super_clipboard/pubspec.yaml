@@ -15,6 +15,7 @@ dependencies:
   super_native_extensions:
     git:
       url: https://github.com/BakaLabs/super_native_extensions.git
+      path: super_native_extensions
 dev_dependencies:
   flutter_test:
     sdk: flutter
